@@ -1,5 +1,5 @@
-# Roblox-Help-snip-scripts
-Welcome to Roblox snip codes 
+
+# Welcome to Roblox Snippet Codes to helping others
 
 ## General Counter code snippet
 
