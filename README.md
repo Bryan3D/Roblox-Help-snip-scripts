@@ -29,3 +29,14 @@ wait(7)
 explodeBomb(explodingPart)
 
 ```
+## Destroy()
+```
+local target = script.Parent
+
+target.Touched:Connect(function()
+	target.Sound:Play()
+	wait(.5)
+	target:Destroy()
+
+end)
+```
