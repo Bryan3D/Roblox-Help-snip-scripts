@@ -14,3 +14,18 @@ end
 
 ```
 
+## Bomb
+```
+local explodingPart = workspace.Bomb
+
+local function explodeBomb(part)
+	local explosion = Instance.new("Explosion")
+	explosion.Position = part.Position print("Exploding")
+	explosion.Parent = explodingPart
+end
+
+wait(7)
+
+explodeBomb(explodingPart)
+
+```
