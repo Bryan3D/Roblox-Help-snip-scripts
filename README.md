@@ -1,9 +1,7 @@
 # Roblox-Help-snip-scripts
 Welcome to Roblox snip codes 
 
-## General Counter Scripe
-
-
+## General Counter code snippet
 
 ``` 
 local textLabel = script.Parent.TextLabel
