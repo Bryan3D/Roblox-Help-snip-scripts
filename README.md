@@ -5,13 +5,14 @@ Welcome to Roblox snip codes
 
 
 
-``` local textLabel = script.Parent.TextLabel
-
-
+``` 
+local textLabel = script.Parent.TextLabel
  for i=5,0,-1  do
 	
 	textLabel.Text = i
 	wait(1)
 	
-end ```
+end 
+
+```
 
